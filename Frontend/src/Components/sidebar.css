@@ -1,0 +1,36 @@
+.mynav{
+    color: #fff;
+}
+
+
+.jersey-15-charted-regular {
+    font-family: "Jersey 15 Charted", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
+
+.mynav li  {
+    color: #fff;
+    text-decoration: none;
+    width: 100%;
+    /* display: block; */
+    border-radius: 5px;
+    padding: 8px 5px;
+}
+
+
+.mynav li:hover{
+background: rgba(255,255,255,0.2);
+border: 0.5px solid white;
+}
+
+.links {
+    color: #fff;
+}
+
+.card-body {
+    background: rgba(255,255,255,0.2);
+}
+
+
