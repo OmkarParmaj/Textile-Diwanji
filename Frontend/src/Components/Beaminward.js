@@ -282,7 +282,7 @@ axios.get('https://www.api.textilediwanji.com/beaminwarduniqueidno')
                 </div>
                 <div className='row d-flex justify-content-end mt-5'>
                   <div className='col-2 mb-3 float-end '>
-                    <button className='btn btn-primary' >Submit</button>
+                    <button className='btn btn-primary' type='button' >Submit</button>
                   </div>
                 </div>
 
@@ -300,7 +300,7 @@ axios.get('https://www.api.textilediwanji.com/beaminwarduniqueidno')
         </div>
       </div>
 
-
+{/* i am changed this */}
     </>
   )
 }
