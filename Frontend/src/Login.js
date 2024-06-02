@@ -30,7 +30,7 @@ const Login = ({ setIsLoggedIn }) => {
                 // console.log(res);
                 if (res.data.redirectTo) {
                     setIsLoggedIn(true); // Update the state in the parent component
-                    dispatch(hello("true")); // Use checkAction instead of check
+                    // dispatch(hello("true")); // Use checkAction instead of check
                     // Navigate to the dashboard
 
 
